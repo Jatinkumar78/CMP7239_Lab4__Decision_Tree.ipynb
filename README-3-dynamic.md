@@ -1,6 +1,20 @@
 <div align="center">
 
-# 🛡️ Adaptive Vulnerability Risk Scoring Framework
+#  Adaptive Vulnerability Risk Scoring Framework
+<!-- 🔥 Animated Cyber Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,25:302b63,50:24243e,75:7209b7,100:00f5ff&text=ADAPTIVE%20VULNERABILITY%20RISK%20SCORING&fontSize=36&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Dynamic%20AI-Driven%20Cyber%20Risk%20Assessment%20Framework&descAlignY=65&descSize=18"/>
+</p>
+
+<!-- ⚡ Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Transitioning+from+Static+CVSS+to+Dynamic+Scoring;Machine+Learning+Driven+Risk+Assessment;Context-Aware+Cybersecurity+Analytics;Regression+Models+for+Adaptive+Scoring;Real-Time+Inspired+Threat+Evaluation"/>
+</p>
+
+<!-- 🚀 Glow Divider -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f5ff,50:7209b7,100:00f5ff"/>
+</p>
 
 ### Transitioning from Static CVSS to Dynamic, Data‑Driven Cyber Threat Assessment
 
@@ -23,25 +37,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-## 📑 Table of Contents
-
-1.  [Overview](#overview)
-2.  [Authors](#authors)
-3.  [Abstract](#abstract)
-4.  [The Challenge](#the-challenge)
-5.  [Proposed Solution](#proposed-solution)
-6.  [Methodology & Architecture](#methodology-architecture)
-7.  [Installation](#installation)
-8.  [Using Pre-Trained Models](#using-pre-trained-models)
-9.  [Project Structure](#project-structure)
-10. [Future Roadmap](#future-roadmap)
-11. [References](#references)
-12. [License](#license)
-
-</td>
-<td width="50%" valign="top">
 
 ## 🚀 Quick Navigation
 
